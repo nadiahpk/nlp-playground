@@ -1,0 +1,207 @@
+
+
+--- Scanned Page 1 ---
+
+TRATADO ANTARTICO                                               ANTARCTIC TREATY
+XII REUNION CONSULTIVA                                            XII CONSULTATIVE MEETING
+
+TRAITE SUR L'ANTARCTIQUE                                          ДОГОВОР ОБ АНТАРКТИКЕ
+XII REUNION CONSULTATIVE                                          XII КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+                                             CANBERRA
+                                             13-27 SEPTEMBER
+                                                   1983
+
+
+                                                                   ANT/XII/5
+                                                                   12 September 1983
+                                                                   Original: English
+
+.
+.
+
+ITEM FIVE - TELECOMMUNICATIONS AND METEOROLOGY
+(Draft recommendation submitted by Australia)
+
+
+--- Scanned Page 2 ---
+
+The Representatives;
+
+Recalling Recommendation X-3;
+
+Taking account of the importance of Antarctic meteorological
+data to the World Weather Watch and the diminished value of 
+such data if it is not available to users within and outside
+the Antarctic in accordance with the World Meteorological
+Organisation (WMO) schedules for the receipt of raw and
+processed data;
+
+Being aware of the problems leading to the non-arrival of
+meteorological data on the GTS from time to time;
+
+Noting, with appreciation, the efforts of the WMO Executive
+Committee Working Group on Antarctic Meteorology and the
+WMO Meeting on Antarctic Data Telecommunication Arrangements
+toward improving the availability of Antarctic meteorological
+data;
+
+Recommend to their Governments that they:
+
+1.          note the updated diagrams of meteorological data flow
+within and from the Antarctic prepared by the WMO Meeting on
+Antarctic Data Telecommunication Arrangements (see Annexes 1
+and 2);
+
+2.          note the following conclusions of the WMO Meeting on
+Antarctic Data Telecommunication Arrangements:
+
+·         the entry point (centre) on the GTS should be
+responsible for the proper compiling and formatting of
+the relevant Antarctic Bulletins, in accordance with 
+established WMO telecommunication procedures;
+
+1
+
+
+--- Scanned Page 3 ---
+
+· nations inject on the GTS only data from those
+stations they are collecting, and submit the names of the
+stations for inclusion in the WMO Catalogue of
+Meteorological Bulletins;
+
+· in applying the relevant WMO telecommunication
+procedures WMO members should be urged to adhere strictly
+to the procedures for the use of "NIL" and "RTD" as
+prescribed in the Manual on the GTS, Volume I, Part II,
+paragraphs 2.3.2.2 and 2.3.3.7;
+
+· WMO members should carry out careful checking of the
+contents of their switching directories to ensure that
+Antarctic data bulletins are correctly handled;
+
+· all WMO members concerned with the collection and
+dissemination of Antarctic observational data are
+requested to implement real-time monitoring of their
+respective centres, in conformity with the provisions
+included in the Manual on the GTS, Volume I, Attachment
+I-5, Table C.
+
+2
+
+
+--- Scanned Page 4 ---
+
+PRINCIPAL ROUTES BY WHICH ANTARCTIC METEOROLOGICAL
+DATA ENTERS THE GTS
+
+ANNEX I.
+
+GTS
+
+CP CL 4
+1 0
+2210
+1
+2 11
+5
+0
+20 0
+0
+3
+2
+3
+100 11
+MSL
+
+AMUNDSEN-SCOTT
+(SOUTH POLE)
+89009
+
+MCMURDO
+89664
+
+0
+5
+2
+012
+40234 0
+100 2300
+MSL  11
+<---SYNOP/TEMP---> UTC
+
+CASEY
+89611
+
+AMPS ARCH
+(AUTOB) 3 HLY
+0 12 6 9 15 18 21 UTC
+
+MAWSON
+89564
+
+NOVOLAZAREVSKAYA
+89512
+
+<-----SYNOP------> 1115 UTC
+TEMP 1115 23 UTC
+
+MOLODEZHNAYA
+89542
+
+MIRNY
+89592
+
+LENINGRADSKAYA
+8949
+
+BELLINGSHAUSEN
+88968 AMPS
+
+FARADAY
+88925
+
+ROTHERA HALLEY
+89062 89022
+
+SANAE
+89009
+
+GOUGH ISLANDS
+68906
+
+12 00
+09
+03
+06 21
+18
+15
+
+
+--- Scanned Page 5 ---
+
+ANNEX 2.
+
+EXISTING LINKS FOR THE DAILY INTERNATIONAL
+EXCHANGE OF METEOROLOGICAL DATA WITHIN
+THE ANTARCTIC (June 1983)
+
+[A network schematic diagram is shown with lines connecting various nodes labeled with location names or abbreviations]
+
+ANTARCTIC COMMUNICATIONS
+
+RADIO BROADCASTS
+
+ELSON ELECTRONICS PTY. LTD., 16 Mooney Street, Bayswater, Vic. 3153, Australia
+
+Telephone: (03) 729 6122
+
+Telex: AA 37186
+
+Telegrams: "Respons" Melbourne
+
+Telephone: (03) 729 6122
+
+Telex: AA 37186
+
+Telegrams: "Respons" Melbourne

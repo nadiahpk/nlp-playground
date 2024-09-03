@@ -1,0 +1,111 @@
+digraph {
+	graph [rankdir=TD];
+	node [label="\N", shape=rectangle, color="black"];
+
+    // nodes
+    { // raw data
+        node [fillcolor="#ccddaa", style="filled"];
+        ATCM12_fr001_e [label="Final Report pdf\n\nATCM12_fr001_e.pdf"];
+        ATCM12_wp_pdf [label="Working Paper pdfs\n\nATCM12_wp{nbr}_e.pdf", shape=folder];
+    }
+    { // processed-data nodes
+        node [fillcolor="#eeeebb", style="filled"];
+        ATCM12_fr001_e_txt [label="Final Report in plain text\n\nATCM12_fr001_e.txt"];
+        ATCM12_fr001_e_minutes [label="Minutes text with markers\nto divide Agenda Items\n\nATCM12_fr001_e_minutes.txt"];
+        wp_substantive_csv [label="List of substantive WPs\n\nwp_substantive_1.csv"];
+        { node [shape=folder]; // for collections of files
+            ATCM12_wp_first_two [label="First 2 pages of\nevery WP in plain text\n\nATCM12_wp{nbr}_e_first_two_pages.txt"];
+            ATCM12_chunk [label="Text of each Agenda Item\n\nATCM12_fr001_e_minutes_chunk_{nbr}.txt"];
+            ATCM12_wp [label="Text of each substantive\nWorking Paper\n\nATCM12_wp{nbr}.txt"];
+            ATCM12_R [label="Text of each\nRecommendation\n\nATCM12_R{nbr}.txt"];
+        }
+        agenda_summary_csv [label="Summary of each\nAgenda Item\n\nagenda_summary_2.csv"];
+        wp_summary_csv [label="Summary of each\nsubstantive Working Paper\n\nwp_summary_2.csv"];
+        rec_summary_csv [label="Summary of each\nRecommendation\n\nrec_summary_1.csv"];
+        wp_to_agenda_csv [label="List of substantive WPs and\ncorresponding Agenda Items\n\nwp_to_agenda_1.csv"];
+        wp_unlikely_recs_csv [label="Unlikely WP -> Rec.\n\nwp_unlikely_recs.csv"];
+        wp_to_rec_csv [label="List of WPs and Recs\nthey contributed to\n\nwp_to_rec_4.csv"];
+        wp_connections_csv [label="Connections from WPs to Recs\npast papers, other meetings\n\nworking_paper_connections_2.csv"];
+        ai_connections_csv [label="Connections from agenda items\nto WPs, Recs, other meetings\n\nagenda_item_connections_2.csv"];
+    }
+    { // scripts and functions
+        node [style="rounded, filled"];
+        { // LLM
+            node [fillcolor="#cceeff"];
+            ocr [label="Convert scanned pdf to text\n\nnorag_1_claude_api/ocr_example_3.py"];
+            ocr_first [label="Convert first 2 pages to text\n\nocr_first_two_pages_1.py"];
+            wp_substantive [label="From first pages, classify WPs\nas substantive/procedural\n\nwp_substantive_1.py"];
+            ocr_substantive [label="Convert remainder of\nsubstantive WPs to text\n\nocr_substantive_1.py"];
+            agenda_summary [label="Summarise each Agenda Item,\nincl. refs to past and future\ndiscussions and draft\nRecs withdrawn\n\nagenda_summary_2.py"];
+            wp_summary [label="Summarise each WP, incl.\nAgenda Items mentioned,\nrefs to past and future\ndiscussion\n\nwp_summary_2.py"];
+            rec_summary [label="Summarise each Rec.\n\nrec_summary_1.py"];
+            wp_to_agenda [label="Use mentions of Agenda Items\nin WPs and WPs in Agenda Items\nto identify under which Agenda Item\neach WP was discussed \n\nwp_to_agenda.py"];
+            wp_unlikely_recs [label="Based on summaries,\nrule out WP -> Rec.\ncontributions\n\nwp_unlikely_recs_1.py"];
+            wp_to_rec [label="Excluding unlikely pairs,\ncheck each WP -> Rec\ncontribution based on\nfull texts\n\nwp_to_rec_3.py"];
+        }
+        { // No LLM
+            node [fillcolor="#bbccee"];
+            agenda_chunks [label="Split minutes into separate files\nfor each Agenda Item\n\nagenda_chunks.py"];
+            connections [label="Compile all info\nabout connections\n\nconnections_2.py"];
+            dottify [label="Create graph of\nconnections\n\ndottify_3.py"];
+        }
+    }
+    { // by hand
+        node [fillcolor="#ffcccc", style="rounded, filled"];
+        agenda_div [label="Trim to minutes.\nInsert agenda-item\ndividers."];
+        rec_div [label="Split text of\nrecommendations\ninto separate files."];
+    }
+    { // Result
+        node [shape="plaintext"];
+        dot_graph [label="Graph of connections between\n WPs, Recs, past and future meetings", fontsize="16"];
+    }
+
+    // connections
+    subgraph cluster_text {
+        color="lightgray"
+        label="OCR / Text Processing"
+        fontsize="16"
+        ATCM12_fr001_e -> ocr -> ATCM12_fr001_e_txt;
+        ATCM12_fr001_e_txt -> agenda_div -> ATCM12_fr001_e_minutes;
+        ATCM12_fr001_e_minutes -> agenda_chunks -> ATCM12_chunk;
+        ATCM12_wp_pdf -> ocr_first -> ATCM12_wp_first_two -> wp_substantive -> wp_substantive_csv;
+        {ATCM12_wp_pdf ATCM12_wp_first_two wp_substantive_csv} -> ocr_substantive -> ATCM12_wp;
+        ATCM12_fr001_e_txt -> rec_div -> ATCM12_R;
+        {rank=same ATCM12_chunk ATCM12_R ATCM12_wp}
+    }
+    subgraph cluster_summarise {
+        color="lightgray"
+        label="Document Summarisation"
+        fontsize="16"
+        ATCM12_R -> rec_summary [minlen=2];
+        rec_summary -> rec_summary_csv;
+        ATCM12_chunk -> agenda_summary -> agenda_summary_csv;
+        ATCM12_wp -> wp_summary -> wp_summary_csv;
+    }
+    subgraph cluster_analysis {
+        color="lightgray"
+        label="Analysis"
+        fontsize="16"
+        {agenda_summary_csv wp_summary_csv} -> wp_to_agenda [minlen=2];
+        wp_to_agenda -> wp_to_agenda_csv;
+        {rec_summary_csv wp_summary_csv} -> wp_unlikely_recs -> wp_unlikely_recs_csv;
+        {wp_summary_csv rec_summary_csv wp_unlikely_recs_csv ATCM12_wp ATCM12_R} -> wp_to_rec -> wp_to_rec_csv;
+    }
+    subgraph cluster_results {
+        color="lightgray"
+        label="Visualisation"
+        fontsize="16"
+        {wp_to_agenda_csv wp_to_rec_csv wp_summary_csv agenda_summary_csv} -> connections -> {wp_connections_csv ai_connections_csv} -> dottify -> dot_graph;
+    }
+
+    // legend - separate out at end
+    subgraph cluster_legend {
+        label="Legend";
+        leg3 [label="by hand", fillcolor="#ffcccc", style="rounded, filled"];
+        leg5 [label="script w. LLM", fillcolor="#cceeff", style="rounded, filled"];
+        leg2 [label="script", fillcolor="#bbccee", style="rounded, filled"];
+        leg4 [label="multiple data files", fillcolor="lightgray", style="filled", shape=folder];
+        leg1 [label="processed data", fillcolor="#eeeebb", style="filled"];
+        leg0 [label="raw data", fillcolor="#ccddaa", style="filled"];
+    }
+}

@@ -1,0 +1,324 @@
+
+
+--- Scanned Page 1 ---
+
+TRATADO ANTARTICO                                      ANTARCTIC TREATY
+XII REUNION CONSULTIVA                                    XII CONSULTATIVE MEETING
+------------------------------                            ------------------------------
+TRAITE SUR L'ANTARCTIQUE                                  ДОГОВОР ОБ АНТАРКТИКЕ
+XII REUNION CONSULTATIVE                                  XII КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+                                     CANBERRA
+                                  13-27 SEPTEMBER
+                                        1983
+                                                       ANT/XII/22
+                                                       23 September 1983
+                                                       Original: English
+
+
+ITEM 5: DRAFT RECOMMENDATION ON THE COLLECTION AND
+DISTRIBUTION OF ANTARCTIC METEOROLOGICAL DATA
+
+
+(Prepared by the Telecommunications Working Group)
+
+
+--- Scanned Page 2 ---
+
+THE COLLECTION AND DISTRIBUTION OF ANTARCTIC
+METEOROLOGICAL DATA
+
+The Representatives,
+
+Recalling Recommendation VI-3 and X-3;
+
+Noting Resolutions 4,5,6,7 and 8 of the WMO Executive Committee,
+Thirty Fourth Session,June 1982 concerning meteorological
+observing networks, collection and transmission of
+meteorological data and meteorological data processing in
+Antarctica;
+
+Recognising
+
+(1) the continuing importance of Antarctic meteorological
+data for support of operations within Antarctica and for
+weather forecasting and research, especially climate
+research in the rest of the world;
+
+(2) the need to maintain a basic network of meteorological
+stations providing surface and upper-air synoptic data to
+meet in so far as possible the requirements of
+Consultative Parties and of the WMO World Weather Watch;
+
+(3) the diminished value of meteorological data if it is not
+available to users within and outside the Antarctic in
+accordance with the WMO schedules for the receipt of raw
+and processed data;
+
+1
+
+
+
+--- Scanned Page 3 ---
+
+(4)    the paucity of Antarctic meteorological surface and upper
+       air data and the consequent importance of maintaining
+       regularity of meteorological observations;
+
+(5)    that the increasing shipping and aircraft activities in
+       Antarctica will give rise to increasing demands for
+       meteorological support;
+
+Reaffirming  the importance of the WMO Global Telecommunications
+System (GTS)for purposes of transmitting Antarctic
+meteorological data between Antarctic stations in cases where
+direct transmission within Antarctica is inhibited by
+ionospheric conditions, and noting that the adoption by some
+Consultative Parties of satellite communications may facilitate
+the reception within Antarctica of meteorological data from the
+GTS;
+
+Noting
+(1) that monitoring carried out by WMO in 1982 and 1983 on
+    the flow of Antarctic meteorological data into the GTS
+    indicates that significant deficiencies remain;
+
+(2) the reactivation of the WMO Executive Committee Working
+    Group on Antarctic Meteorology and the outcome of its
+    Third Session in April 1982, including preliminary work
+    on a review of the requirements for raw and processed
+    data set out in Annexes 1 and 2 of Recommendation VI-3;
+
+(3) the efforts of the WMO Meeting of Experts on Antarctic
+    Data Telecommunication Arrangements in June 1983, in
+
+2
+
+
+--- Scanned Page 4 ---
+
+reviewing and updating the meteorological
+telecommunications routing diagrams set forth in Annexes
+1, 2 and 3 of Recommendation X-3;
+
+(4) that the aforesaid WMO Meeting of Experts arrived at a
+number of conclusions and recommendations aimed at
+improving Antarctic telecommunications for meteorological
+purposes, and at improving the manner in which Antarctic
+meteorological data is transmitted within the GTS of the
+WMO World Weather Watch;
+
+Recognising the need to keep under review:
+
+(1) the requirements for raw and processed Antarctic
+meteorological data;
+
+(2) the arrangements for transmission of meteorological data
+within Antarctica and between Antarctica and the WMO
+World Weather Watch system;
+
+Recommend to their Governments that:
+
+(1) They use their best endeavours, subject to overriding
+scientific, administrative or budgetary considerations,
+to secure full implementation of the network of stations
+and observational programs set forth in Annex 1 of this
+Recommendation;
+
+(2) They maintain and improve, subject to overriding
+scientific, administrative or budgetary considerations,
+the system for collection and distribution of
+meteorological data
+
+3
+
+
+--- Scanned Page 5 ---
+
+to, from and within Antarctica having regard to the
+routing arrangements shown in Annexes 2 and 3, which are
+based on the conclusions of the WMO Meeting of Experts on
+Antarctic Data Telecommunication Arrangements in June
+1983;
+
+(3)    They seek, through their Permanent Representatives with
+WMO, the completion of Annex IV to the Final Report of
+the aforesaid WMO Meeting of Experts, as a helpful
+contribution to planning the exchange of available
+meteorological data;
+
+(4)    They seek, through their Permanent Representatives with
+WMO, to ensure that consideration is given, as
+appropriate, to other conclusions and recommendations
+made by the aforesaid WMO Meeting of Experts;
+
+(5)    They invite WMO through their Permanent Representatives
+with that Organisation, to keep under review the
+arrangements for routing of meteorological data within
+Antarctica and between Antarctica and the GTS of the
+World Weather Watch, and to suggest actions which might
+be taken to improve the timely receipt of data at
+stations in Antarctica and at World Meteorological
+Centres Melbourne, Moscow and Washington and other
+centres in the World Weather Watch System, having
+particular regard to changing requirements for
+meteorological information and to opportunities offered
+by new technology;
+
+4
+
+
+--- Scanned Page 6 ---
+
+(6)    They note that the statements of requirements for raw and
+       processed Antarctic meteorological data provided by the
+       WMO pursuant to Recommendation X-3 paragraph 9 require
+       refinement, and invite WMO, through their Permanent
+       Representatives with that Organization, to undertake such
+       refinement.
+
+5
+
+
+--- Scanned Page 7 ---
+
+ANNEX 1 *
+STATIONS AND OBSERVATIONAL PROGRAMMES COMPRISING THE BASIC SYNOPTIC NETWORK
+                         IN THE ANTARCTIC
+
+INDEX   NAME OF THE STATION*           SURFACE**             RADIOWIND/   RADIO-
+NUMBER                                                        RADIOVENT    SONDE
+
+                    1                                 2               3           4
+        
+             00 03 06 09 12 15 18 21      00 06 12 18     00   12
+
+85984   CENTRO MET.            X   X   X   X
+        ANTARTICO PDTE.
+        EDUARDO FREI***
+
+85986   B.A. ARTURO PRAT       X   X   X   X
+        
+85988   B.A. BERNARDO
+        O'HIGGINS              X   X   X   X
+
+88925   SIGNY ISLAND           X   X   X   X
+
+88952   FARADAY                X   X   X   X           X   X       X   X
+        (ARGENTINE ISLAND)
+
+88962   FOSSIL BLUFF           X   X   X   X
+
+89022   HALLEY                 X   X   X   X           X   X       X   X
+
+89062   ROTHERA POINT          X   X   X   X
+
+88963   ESPERANZA B.E.         X   X   X   X
+
+88968   ISLAS ORCADAS D.N.     X   X   X   X           X   X       X   X
+        (OBSERVATORIO
+        METEOROLOGICO)
+
+88970   TENIENTE B.            X   X   X   X
+        MATIENZO B.A.
+
+88971   ALMIRANTE BROWN E.C.   X   X   X   X
+
+*       The names of stations are considered to be as geographical designators
+        and are not  indicative of functions.
+
+**      Where possible when other requirements make it desirable, observations
+        should also be made at some or all of the four intermediate standard
+        times of observation, i.e. 0300, 0900, 1500 and 2100 GMT.
+
+***     Stations  carrying  out  data-processing  and  meteorological  service
+        functions.
+
+* Note this Annex is reproduced from the Annex to Resolution 5 of the W.M.O.
+  Executive Committee Session of June 1982 (EC/XXIV).
+
+1
+
+
+--- Scanned Page 8 ---
+
+INDEX NAME OF THE STATION* SURFACE** RADIOWIND/ RADIO-
+NUMBER RADIOVENT SONDE
+1 2 3 4
+
+00 03 06 09 12 15 18 21 00 06 12 18 00 12
+89034 GENERAL BELGRANO II X X X X
+B.E.
+
+89045 GENERAL BELGRANO III X X X X
+B.E.
+
+89055 VICECOMODORO MARAMBIO X X X X X X X X
+B.A. CENTRO METEORO-
+LOGICO ANTARTICO***
+
+89066 GENERAL SAN MARTIN B.E. X X X X
+
+89001 S.A.N.A.E. STATION X X X X X X X X
+
+89002 GEORG VON NEUMAYER X X X X
+
+89009 AMUNDSEN-SCOTT X X X X X . X .
+
+89664 MCMURDO X X X X X . X .
+
+89050 BELLINGSHAUSEN X X X X X X X X
+
+89132 RUSSKAYA X X X X
+
+89512 NOVOLAZAREVSKAJA X X X X X X X X
+
+89542 MOLODEZNAJA*** X X X X X X X X
+
+89592 MIRNYJ X X X X X X X X
+
+89606 VOSTOK X X X X X X X X
+
+89657 LENINGRADSKAJA X X . X X X X X X
+
+89532 SYOWA X X X X X X X X
+
+89571 DAVIS X X X X X X X X
+
+89611 CASEY X X X X X X X X
+
+94986 MAWSON*** X X X X X X X X
+
+95502 DUMONT D'URVILLE X X X X X X X X
+
+* The names of stations are considered to be as geographical designators
+and are not indicative of functions.
+
+** Where possible when other requirements make it desirable, observations
+should also be made at some or all of the four intermediate standard
+times of observation, i.e. 0300, 0900, 1500 and 2100 GMT.
+
+*** Stations carrying out data-processing and meteorological service
+functions.
+
+2
+
+
+--- Scanned Page 9 ---
+
+EXISTING LINKS FOR THE DAILY INTERNATIONAL EXCHANGE OF METEOROLOGICAL DATA WITHIN THE ANTARCTIC (June 1983)
+
+[DIAGRAM]
+
+ANNEX 2
+
+                            TO POINT DIR REQUEST THAT THE FOLLOWING STATIONS                     RADIO PROGRAM   RECEIVE COMM TRAFFIC ON HF AT 10:17   UTC H + 80 MINUTES   DAILY FROM SANTIAGO, CHILE.                 POINT TO POINT LINK   HIGH FREQUENCY POINT TO POINT              COMMUNICATIONS LINK
+
+FEA COMMUNICATIONS BUREAU
+
+
+--- Scanned Page 10 ---
+
+PRINCIPAL ROUTES BY WHICH ANTARCTIC METEOROLOGICAL
+DATA ENTERS THE GTS
+[The image contains a diagram showing data flow routes labeled ANNEX 3. The diagram contains various labeled boxes connected by arrows indicating the flow of data between them.]

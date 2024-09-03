@@ -1,0 +1,361 @@
+--- Scanned Page 2 ---
+
+22.
+
+XII-1
+
+THE COLLECTION AND DISTRIBUTION OF ANTARCTIC
+METEOROLOGICAL DATA
+
+The Representatives,
+
+Recalling Recommendation VI-3 and X-3;
+
+Noting Resolutions 4,5,6,7 and 8 of the WMO Executive Committee,
+Thirty Fourth Session June 1982 concerning meteorological
+observing networks, collection and transmission of
+meteorological data and meteorological data processing in
+Antarctica;
+
+Recognising
+
+(1)   the continuing importance of Antarctic meteorological
+      data for support of operations within Antarctica and for
+      weather forecasting and research, especially climate
+      research in the rest of the world;
+
+(2)   the need to maintain a basic network of meteorological
+      stations providing surface and upper-air synoptic data to
+      meet in so far as possible the requirements of
+      Consultative Parties and of the WMO World Weather Watch;
+
+(3)   the diminished value of meteorological data if it is not
+      available to users within and outside the Antarctic in
+      accordance with the WMO schedules for the receipt of raw
+      and processed data;
+
+
+--- Scanned Page 3 ---
+
+23.
+
+(4)    the paucity of Antarctic meteorological surface and upper
+       air data and the consequent importance of maintaining
+       regularity of meteorological observations;  and
+
+(5)    that the increasing shipping and aircraft activities in
+       Antarctica will give rise to increasing demands for
+       meteorological support;
+
+Reaffirming  the importance of the WMO Global Telecommunications 
+System (GTS) for purposes of transmitting Antarctic
+meteorological data between Antarctic stations in cases where
+direct transmission within Antarctica is inhibited by
+ionospheric conditions, and noting that the adoption by some
+Consultative Parties of satellite communications may facilitate 
+the reception within Antarctica of meteorological data from the 
+GTS;
+
+Noting:
+
+(1) that monitoring carried out by WMO in 1982 and 1983 on
+    the flow of Antarctic meteorological data into the GTS
+    indicates that significant deficiencies remain;
+
+(2) the reactivation of the WMO Executive Committee Working
+    Group on Antarctic Meteorology and the outcome of its
+    Third Session in April 1982, including preliminary work
+    on a review of the requirements for raw and processed
+    data set out in Annexes 1 and 2 of Recommendation VI-3;
+
+(3) the efforts of the WMO Meeting of Experts on Antarctic
+    Data Telecommunication Arrangements in June 1983, in
+    reviewing and updating the meteorological
+    telecommunications routing diagrams set forth in Annexes
+    1, 2 and 3 of Recommendation X-3;  and
+
+
+--- Scanned Page 4 ---
+
+24.
+
+(4)    that the aforesaid WMO Meeting of Experts arrived at a
+       number of conclusions and recommendations aimed at
+       improving Antarctic telecommunications for meteorological
+       purposes, and at improving the manner in which Antarctic
+       meteorological data is transmitted within the GTS of the
+       WMO World Weather Watch;
+
+Recognising the need to keep under review:
+
+(1)    the requirements for raw and processed Antarctic
+       meteorological data; and
+
+(2)    the arrangements for transmission of meteorological data
+       within Antarctica and between Antarctica and the WMO
+       World Weather Watch system;
+
+Recommend to their Governments that they:
+
+(1)    use their best endeavours, subject to any overriding
+       scientific, administrative or budgetary considerations,
+       to secure full implementation of the network of stations
+       and observational programs set forth in Annex 1 of this
+       Recommendation;
+
+(2)    maintain and improve, subject to any overriding
+       scientific, administrative or budgetary considerations,
+       the system for collection and distribution of
+       meteorological data to, from and within Antarctica having
+       regard to the routing arrangements shown in Annexes 2 and
+       3, which are based on the conclusions of the WMO Meeting
+       of Experts on Antarctic Data Telecommunication
+       Arrangements in June 1985;
+
+
+--- Scanned Page 5 ---
+
+25.
+
+(3) seek, through their Permanent Representatives with WMO,
+the completion of Annex IV to the Final Report of the
+aforesaid WMO Meeting of Experts, as a helpful
+contribution to planning the exchange of available
+meteorological data;
+
+(4) seek, through their Permanent Representatives with WMO,
+to ensure that consideration is given, as appropriate, to
+other conclusions and recommendations made by the
+aforesaid WMO Meeting of Experts;
+
+(5) invite WMO through their Permanent Representatives with
+that Organisation, to keep under review the arrangements
+for routing of meteorological data within Antarctica and
+between Antarctica and the GTS of the World Weather
+Watch, and to suggest actions which might be taken to
+improve the timely receipt of data at stations in
+Antarctica and at World Meteorological Centres Melbourne,
+Moscow and Washington and other centres in the World
+Weather Watch System, having particular regard to
+changing requirements for meteorological information and
+to opportunities offered by new technology; and
+
+(6) note that the statements of requirements for raw and
+processed Antarctic meteorological data provided by the
+WMO pursuant to Recommendation X-3 paragraph 9 require
+refinement, and invite WMO, through their Permanent
+Representatives with that Organization, to undertake such
+refinement.
+
+
+--- Scanned Page 6 ---
+
+ANNEX 1 *
+
+26.
+STATIONS AND OBSERVATIONAL PROGRAMMES COMPRISING THE BASIC SYNOPTIC NETWORK
+IN THE ANTARCTIC
+
+INDEX  NAME OF THE STATION*          SURFACE**              RADIOSONDE/   RADIO-
+NUMBER                                                        RADLOVENT     SONDE
+
+1                        2                3          4
+
+                             00 03 06 09 12 15 18 21    00 06 12 18    00  12
+
+85984   CENTRO MET.               X   X   X    X
+        ANTARTICO PDTE.
+        EDUARDO FREI***
+
+85986   B.A. ARTURO PRAT          X   X   X    X
+
+85988   B.A. BERNARDO
+        O'HIGGINS                 X   X   X    X
+
+88925   SIGNY ISLAND              X   X   X    X
+
+88952   FARADAY                   X   X   X    X         X   X          X   X
+        (ARGENTINE ISLAND)
+
+88962   FOSSIL BLUFF              X   X   X    X
+
+89022   HALLEY                    X   X   X    X         X   X          X   X
+
+89062   ROTHERA POINT             X   X   X    X
+
+88963   ESPERANZA B.E.            X   X   X    X
+
+88968   ISLAS ORCADAS D.N.        X   X   X    X         X   X          X   X
+        (OBSERVATORIO
+        METEOROLÓGICO)
+
+88970   TENIENTE B.               X   X   X    X
+        MATIENZO B.A.
+
+88971   ALMIRANTE BROWN E.C.      X   X   X    X
+
+*       The names of stations are considered to be as geographical designators
+        and are not  indicative of functions.
+
+**      Where possible when other requirements make it desirable, observations
+        should also be made at some or all of the four intermediate standard
+        times of observation, i.e. 0300, 0900, 1500 and 2100 GMT.
+
+***     Stations carrying out data-processing and meteorological service
+        functions.
+
+* Note this Annex is reproduced from the Annex to Resolution 5 of the W.M.O.
+  Executive Committee Session of June 1982 (EC-XXXIV).
+
+
+--- Scanned Page 7 ---
+
+INDEX NAME OF THE STATION* SURFACE** RADIOWIND/ RADIO-
+NUMBER RADIOVENT SONDE
+1 2 3 4
+______________________________________________________________________________
+00 03 06 09 12 15 18 21 00 06 12 18 00 12
+B9034 GENERAL BELGRANO II X X X X X
+B.E.
+B9045 GENERAL BELGRANO III X X X X
+B.E.
+B9055 VICECOMODORO MARAMBIO X X X X X X X X
+B.A. CENTRO METEORO-
+LOGICO ANTARTICO***
+B9066 GENERAL SAN MARTIN B.E. X X X X X
+B9001 S.A.N.A.E. STATION X X X X X X X X
+B9002 GEORG VON NEUMAYER X X X X
+B9009 AMUNDSEN-SCOTT X X X X X . X .
+B9664 MCMURDO X X X X X . X .
+B9050 BELLINGSHAUSEN X X X X X X X X
+B9132 RUSSKAYA X X X X
+B9512 NOVOLAZAREVSKAJA X X X X X X X X
+B9542 MOLODEZHNAJA*** X X X X X X X X
+B9592 MIRNYJ X X X X X X X X
+B9606 VOSTOK X X X X X X X X
+B9657 LENINGRADSKAJA X X X X X X X X
+B9532 SYOWA X X X X X X X X
+B9571 DAVIS X X X X X X X X
+B9611 CASEY X X X X X X X X
+94986 MAWSON*** X X X X X X X X
+95502 DUMONT D'URVILLE X X X X X X X X
+
+* The names of stations are considered to be as geographical designators
+and are not indicative of functions.
+
+** Where possible when other requirements make it desirable, observations
+should also be made at some or all of the four intermediate standard
+times of observation, i.e. 0300, 0900, 1500 and 2100 GMT.
+
+*** Stations carrying out data-processing and meteorological service
+functions.
+
+
+--- Scanned Page 8 ---
+
+EXISTING LINKS FOR THE DAILY INTERNATIONAL TELECOMMUNICATION NETWORK METEOROLOGICAL DATA WITHIN THE ANTARCTIC (June 1983)
+
+[ANNEX 2]
+
+[The image contains a diagram showing various weather data collection sites in Antarctica and the links between them for transmitting meteorological data.]
+
+ANNEX 2
+
+S. POLE
+
+PALMER
+
+ROTHERA
+
+FARADAY
+
+HALLEY
+
+BELGRANO II
+
+MARAMBIO
+
+ARCTOWSKI
+
+10
+
+3
+
+8
+
+20
+
+68°W
+
+FRB
+
+5
+
+2
+
+8
+
+75°35'S 26°39'W
+
+MMN
+
+SANAE
+
+SYOWA 69°12'S 36°08'E
+
+MOLODEZHNAYA 67°40'S 45°51'E
+
+------- Satellite link
+-------Point to point link
+- - - Terrestrial link
+
+Note:The map is not drawn to scale. The figure is based on Resolution 28 of Madrid Telecommunications Conference,1932, in which all these links were proposed. Many of these have already been established.
+
+
+--- Scanned Page 9 ---
+
+[Figure showing a floor plan diagram with various labels]
+
+                                                                                                 29.
+                                                                                              ANNEX  3
+                                                                                            GTS
+        PRINCIPAL ROUTES BY WHICH ANTARCTIC METEOROLOGICAL
+      DATA ENTERS THE GTS                                                  TO SANTIAGO            TO WASHINGTON    VIA    COMSAT
+                                                                                                                                |
+                      MOLODEXHNAYA                                                                          TO MELBOURNE
+                             |                                                                  |
+                         MOSCOW                                                          McMURDO
+                                                                                         |      |
+                               BRACKNELL                                              CHRISTCHURCH
+                                     |                                                                   TO OFFENBACH
+                                     |     |               |                              |
+                                     |     |               |                              |
+                           WASHINGTON     |               |                              |
+                                           |               |                              |           |
+                                           |    MOSCOW     |                    MELBOURNE             |
+                                           |               |                         |                |
+                                           |               |                         |                |
+      PRETORIA               TOKYO                SANAE    SYOWA                                  BRACKNELL
+           |   |                |               |     |    |   |          _______________________|     |
+           |   |                |               |     |    |   |          |                           |
+           |   |                |               |     |    |   |       MOLODEXHNAYA             OFFENBACH
+           |      Buenos AIRES  |               |     |    |   |            |                        |
+           |            |       |               |     |    |   MAWSON       |                        |
+           |            |       SANTIAGO        |     |    |      |         |                        |
+           |            |             |         |     |    |      |         |                        |
+           |            |             |    S. ORKNEYS  |    |      |         |                        |
+   GOUGH IS.            |             | (ARGENTINA-    |    |      |     MOSCOW                      |
+                GRYTVIKEN             |   U.K.)        |    |      |                                  |
+         (ARGENTINA- S. AFRICA)       |                |    |      |                  BRUXELLES PARIS ROME
+                                      |                |    |      |
+                                      |                |    |      |
+                                  BELLINGSHAUSEN  HALLEY BAY|      |
+                                        |               |         |
+                                        |               |         |
+                                        |               |         |
+                                      MOSCOW         BAS,        |
+                                                    BRACKNELL     |
+                                                                  |
+                                                                  |
+                                                              PRAGUE
+
